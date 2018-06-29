@@ -1,5 +1,7 @@
 # learn-clustering
 
+[kmeans](https://github.com/arfu2016/nlp/tree/master/nlp_models/kmeans)
+
 Clustering往往是多维数据分析的第一步。
 
 K means clustering的优化目标是使类间距离最大，类内距离最小。类间距离用各个类平均点之间距离的平均值来代表，叫做a，类内距离用类内各个点距该类平均点之间的距离的平均值来代表，叫做b，这样的话，优化目标就是让b/a达到最小，或者是让b-a达到最小。
